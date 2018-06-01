@@ -9,8 +9,8 @@ self-driven, and serious about learning.
 We are comrades in a never-ending quest for knowledge. While there are no
 shortcuts, we believe that by providing knowledge in an optimized order,
 reinforcing knowledge with automated feedback from hands-on labs, and providing
-space for discussion and feedback you will learn quickly. Learn is Flatiron
-School's framework for delivering that experience to you.  Our goal is provide
+space for discussion and feedback, you will learn quickly. Learn is Flatiron
+School's framework for delivering that experience to you.  Our goal is to provide
 you with the right materials, support and structure _you_ need to discover your
 own love for the material.
 
@@ -39,7 +39,7 @@ best type of wood to use for our purposes, or realize that glue works just as
 well as nails and is much easier to use.  When we build birdhouse "Version 2,"
 we'll repeat the original again, but it'll be way better. By birdhouse "Version
 3," we'll know how everything fits together just by _looking_ at the materials.
-By "Version 15" we'll have developed a custom birdhouse building tool that uses
+By "Version 15", we'll have developed a custom birdhouse building tool that uses
 phone location to choose the optimal wood for the bug populations and climates,
 cuts the wood, glues the edges, assembles and ships the birdhouse within 30
 seconds of order.
@@ -87,7 +87,7 @@ other students who may be working on similar problems.
 
 As mentioned previously, one of the time-consuming parts of getting started
 with programming is setting up your work environment. There's a lot room for
-error! Also many computers need extra programs or setup to be used for
+error! Also, many computers need extra programs or setup to be used for
 coding. Many would-be developers have tossed their laptops out the window in
 frustration around environment setup.  They wrongly assumed that "If I can't
 _set up_ the language, there's no way I can _use_ the language." Nothing can be
