@@ -90,7 +90,7 @@ with programming is setting up your work environment. There's a lot room for
 error! Also, many computers need extra programs or setup to be used for
 coding. Many would-be developers have tossed their laptops out the window in
 frustration around environment setup.  They wrongly assumed that "If I can't
-_set up_ the language, there's no way I can _use_ the language." Nothing can be
+_set up_ the language, there's no way I can _use_ the language." Nothing could be
 further from the truth!
 
 Learn provides a solution for this so you can get to writing code faster: the
@@ -99,7 +99,7 @@ command line interface, connected with your GitHub account through Learn. It
 automates some steps for us and also comes with some built in command line
 tools such as `learn`, used for running tests in later lessons. If "command
 line" and "editor" are still new concepts to you, don't worry, you'll be
-getting to know them in upcoming work.
+getting to know them soon.
 
 Later, when you dive deeper and create your own projects, you'll likely
 decide to set up your own work environment. If you're already comfortable in
@@ -110,8 +110,9 @@ If you have opted for the in-browser IDE, you'll notice a 'Sandbox' button on
 the top right of this lesson readme. This will also extend to all other READMEs
 as well. The Sandbox acts as a scratch pad for practicing as you read lessons,
 and will save any files you create or edit for later reference.  On lessons
-where there are tests, the 'Sandbox' button becomes an 'Open IDE' button,
-which, when clicked, will create your own copy of the lesson files to work on.
+where you have to write code to pass tests, the 'Sandbox' button becomes an 
+'Open IDE' button, which, when clicked, will create your own copy of the lesson 
+files to work on.
 
 Resources for setting up are linked at the bottom of this lesson. And remember,
 if you're not sure of something, feel free to use the 'Ask a Question' button!
