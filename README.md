@@ -1,6 +1,6 @@
-# Welcome to Learn
+# Welcome to Flatiron School
 
-Welcome to Learn! We're thrilled that you've joined our community of learners!
+Welcome to Flatiron School! We're thrilled that you've joined our community of learners!
 In this lesson, we want to talk about the Learn platform and philosophy.
 
 The Learn platform is designed for people who are passionate, curious,
@@ -22,15 +22,15 @@ learn everything about the particular type of wood we are using? Or how nails
 and hammers are made?
 
 No. It may be _valuable_ to know what type of wood we're using. It may be
-_interesting_ to understand how nails are made. However, these facts won't stop
+_interesting_ to understand how nails are made. However, not having these facts won't stop
 us from successfully building a birdhouse. In fact, we likely won't fully
 appreciate the materials, the wood and nails we're using until we've gone
 through the experience of _building the birdhouse first_.
 
 We call this approach "starting in the middle." We neither work bottom-up
 (explaining wood and nail manufacture as a first step) nor top-down (here's a
-bird house, take it apart and distill each concept until you reach an atomic
-idea). Instead we work from the middle: provide a relatable context, try it,
+bird house, taking it apart and explaining each concept one by one). Instead 
+we work from the middle: provide a relatable context, try it,
 try it again, break it down (a bit) and then explain how it integrates to the
 next idea. Let's imagine how this relates to birdhouses.
 
@@ -42,7 +42,7 @@ we'll repeat the original again, but it'll be way better. By birdhouse "Version
 By "Version 15", we'll have developed a custom birdhouse building tool that uses
 phone location to choose the optimal wood for the bug populations and climates,
 cuts the wood, glues the edges, assembles and ships the birdhouse within 30
-seconds of order.
+seconds of ordering!
 
 Look! We just built a birdhouse empire without knowing _any_ of the details
 of nail manufacture, wood harvesting, or the biology of birds.
@@ -56,7 +56,7 @@ Learn handles the guiding from the middle, _for you_. It provides an
 environment that you don't have to build from scratch. We _give_ you a place to
 code. You get to focus on coding, not setup.
 
-Most people on Learn have already been learning to code a bit by using the
+Many people on Learn have already spent some time dabbling with coding by using the
 amazing and plentiful resources all around the internet. In developing the
 content here on Learn, though, we make no assumptions. It is designed for
 absolute beginners. Lessons build off each other, providing the tools and
@@ -87,11 +87,11 @@ other students who may be working on similar problems.
 
 As mentioned previously, one of the time-consuming parts of getting started
 with programming is setting up your work environment. There's a lot room for
-error! Also, many computers need extra programs or setup to be used for
+error. Also, many computers need extra programs or setup to be used for
 coding. Many would-be developers have tossed their laptops out the window in
-frustration around environment setup.  They wrongly assumed that "If I can't
-_set up_ the language, there's no way I can _use_ the language." Nothing could be
-further from the truth!
+frustration when trying to get their environment set up.  They wrongly assumed 
+that "If I can't _set up_ the language, there's no way I can _use_ the language." 
+Nothing could be further from the truth!
 
 Learn provides a solution for this so you can get to writing code faster: the
 in-browser Learn IDE.  The in-browser IDE is a fully-functional text editor and
@@ -99,7 +99,7 @@ command line interface, connected with your GitHub account through Learn. It
 automates some steps for us and also comes with some built in command line
 tools such as `learn`, used for running tests in later lessons. If "command
 line" and "editor" are still new concepts to you, don't worry, you'll be
-getting to know them soon.
+getting to know them soon enough.
 
 Later, when you dive deeper and create your own projects, you'll likely
 decide to set up your own work environment. If you're already comfortable in
