@@ -1,66 +1,43 @@
 # Welcome to Flatiron School
 
-Welcome to Flatiron School! We're thrilled that you've joined our community of learners!
-In this lesson, we want to talk about the Learn platform and philosophy.
+Welcome to Flatiron School! We're thrilled that you've joined our community of
+learners! In this lesson, we want to talk about the Learn platform and
+philosophy.
 
 The Learn platform is designed for people who are passionate, curious,
 self-driven, and serious about learning.
 
 We are comrades in a never-ending quest for knowledge. While there are no
 shortcuts, we believe that by providing knowledge in an optimized order,
-reinforcing knowledge with automated feedback from hands-on labs, and providing
-space for discussion and feedback, you will learn quickly. Learn is Flatiron
-School's framework for delivering that experience to you.  Our goal is to provide
-you with the right materials, support and structure _you_ need to discover your
-own love for the material.
+reinforcing knowledge with hands-on, feedback driven practice, and providing
+space for discussion, you will learn quickly. Learn is Flatiron School's
+framework for delivering that experience to you. Our goal is to provide the
+right materials, support and structure _you_ need to discover your own love for
+the code.
 
-## Building Birdhouses
+## Learning to Write Code
 
-Imagine that we want to learn how to build a birdhouse but do not have any
-experience with carpentry. Where would we start? Is it necessary to _first_
-learn everything about the particular type of wood we are using? Or how nails
-and hammers are made?
+This is the beginning of the Software Engineering immersive, where you will go
+through everything from the basics of coding to building full stack React
+web applications.
 
-No. It may be _valuable_ to know what type of wood we're using. It may be
-_interesting_ to understand how nails are made. However, not having these facts won't stop
-us from successfully building a birdhouse. In fact, we likely won't fully
-appreciate the materials, the wood and nails we're using until we've gone
-through the experience of _building the birdhouse first_.
+So, where do we start? How do we know what is necessary to understand _first?_
+In this course, we're going to start with a simple idea - programming is like
+having a conversation, and just like learning to talk, we need to start by
+learning a few words and practicing them.
 
-We call this approach "starting in the middle." We neither work bottom-up
-(explaining wood and nail manufacture as a first step) nor top-down (here's a
-bird house, taking it apart and explaining each concept one by one). Instead 
-we work from the middle: provide a relatable context, try it,
-try it again, break it down (a bit) and then explain how it integrates to the
-next idea. Let's imagine how this relates to birdhouses.
+Typically when learning to code, you have to first deal with configuring your
+computer, getting it set up to work with the programming language you're writing
+in. This is often referred to as _setting up your environment_. You _will_ have
+to do this eventually, but for now, Learn will provide the environment you need
+to get started. Learn will give you a place to code. You get to focus on coding,
+not setup.
 
-After building birdhouse "Version 1," we can go back and better understand the
-best type of wood to use for our purposes, or realize that glue works just as
-well as nails and is much easier to use.  When we build birdhouse "Version 2,"
-we'll repeat the original again, but it'll be way better. By birdhouse "Version
-3," we'll know how everything fits together just by _looking_ at the materials.
-By "Version 15", we'll have developed a custom birdhouse building tool that uses
-phone location to choose the optimal wood for the bug populations and climates,
-cuts the wood, glues the edges, assembles and ships the birdhouse within 30
-seconds of ordering!
-
-Look! We just built a birdhouse empire without knowing _any_ of the details
-of nail manufacture, wood harvesting, or the biology of birds.
-
-## Writing Code
-
-Learning how to program is not much different.  Where do we start? How do we
-know what is necessary to understand _first?_ Again, we _start in the middle_.
-
-Learn handles the guiding from the middle, _for you_. It provides an
-environment that you don't have to build from scratch. We _give_ you a place to
-code. You get to focus on coding, not setup.
-
-Many people on Learn have already spent some time dabbling with coding by using the
-amazing and plentiful resources all around the internet. In developing the
-content here on Learn, though, we make no assumptions. It is designed for
-absolute beginners. Lessons build off each other, providing the tools and
-concepts necessary to complete future lessons.
+Many people on Learn have already spent some time dabbling with coding by using
+the amazing and plentiful resources all around the internet. In developing the
+content here on Learn, though, we make no assumptions. This prework content is
+designed for absolute beginners. Lessons build off each other, providing the
+tools and concepts necessary to complete future lessons.
 
 What we don't do, however, is dumb anything down. We believe in your infinite
 capacity to learn. We do our best to offer a curriculum that is clear,
@@ -78,62 +55,51 @@ Together, we can go further than we could ever go alone. We expect everyone on
 Learn to be friendly, respectful, helpful, and nice. Learn is something special.
 
 If you get stuck following the instructions, ask! If you get stuck getting a
-coding concept, ask!  Instructors from the community will be glad to help.
-There is an 'Ask a Question' button in all lessons on
-[Learn.co](https://learn.co) for this reason. You can also see questions from
-other students who may be working on similar problems.
+coding concept, ask! Instructors from the community will be glad to help. There
+is an ['Ask a Question'][aaq] button in all lessons on [Learn.co][learn] for
+this reason, and we'll talk a bit more about this soon. You can also see
+questions from other students who may be working on similar problems.
 
-## The In-Browser Learn IDE
+## The Learn In-Browser IDE
 
 As mentioned previously, one of the time-consuming parts of getting started
 with programming is setting up your work environment. There's a lot room for
 error. Also, many computers need extra programs or setup to be used for
 coding. Many would-be developers have tossed their laptops out the window in
-frustration when trying to get their environment set up.  They wrongly assumed 
-that "If I can't _set up_ the language, there's no way I can _use_ the language." 
+frustration when trying to get their environment set up. They wrongly assumed
+that "If I can't _set up_ the language, there's no way I can _use_ the language."
 Nothing could be further from the truth!
 
 Learn provides a solution for this so you can get to writing code faster: the
-in-browser Learn IDE.  The in-browser IDE is a fully-functional text editor and
-command line interface, connected with your GitHub account through Learn. It
-automates some steps for us and also comes with some built in command line
-tools such as `learn`, used for running tests in later lessons. If "command
-line" and "editor" are still new concepts to you, don't worry, you'll be
-getting to know them soon enough.
+Learn in-browser IDE. The in-browser IDE (Integrated Development Environment) is
+a fully functional text editor and command line interface, connected with your
+GitHub account through Learn. It automates some steps for us and also comes with
+some built in command line tools such as `learn`, used for running tests in
+later lessons. If "command line" and "editor" are still new concepts to you,
+don't worry, you'll be getting to know them soon enough.
 
-Later, when you dive deeper and create your own projects, you'll likely
-decide to set up your own work environment. If you're already comfortable in
-the command-line and with a text editor, you might want to set up your own
-local environment instead. If that describes you, visit this [guide][].
-
-If you have opted for the in-browser IDE, you'll notice a 'Sandbox' button on
-the top right of this lesson readme. This will also extend to all other READMEs
-as well. The Sandbox acts as a scratch pad for practicing as you read lessons,
-and will save any files you create or edit for later reference.  On lessons
-where you have to write code to pass tests, the 'Sandbox' button becomes an 
-'Open IDE' button, which, when clicked, will create your own copy of the lesson 
-files to work on.
-
-Resources for setting up are linked at the bottom of this lesson. And remember,
-if you're not sure of something, feel free to use the 'Ask a Question' button!
+To take a look now at the in-browser IDE, look for the 'Sandbox' button on the
+top right of this lesson on Learn. The Sandbox acts as a scratch pad for
+practicing as you read lessons. The Sandbox will be available on every lesson in
+the first few sections of this course and on any lessons that do not
+specifically require a student to write code.
 
 ## Conclusion
 
 You're just getting started, and we're happy you're here. To proceed to the next
-lesson, press the "I'm Done" button in the right rail then click "Next Lesson".
+lesson, press the "I'm Done" button on the right side of this page, then click
+"Next Lesson".
 
 Happy Learning!
 
 ## Resources
 
-- [Changing Your Learn Environment](http://help.learn.co/the-learn-ide/changing-your-learning-environment)
-- [The IDE in Browser](http://help.learn.co/the-learn-ide/ide-in-browser)
-- [Downloading and Using the Standalone Learn IDE](http://help.learn.co/the-learn-ide/how-to-download-and-use-learn-ide-3)
-- [Learn IDE FAQ](http://help.learn.co/the-learn-ide)
-- [Ask a Question FAQ](http://help.learn.co/ask-a-question)
-- [Learn Community FAQ](http://help.learn.co/your-learn-community)
-- [Workflow Tips for Custom Local Environments](http://help.learn.co/workflow-tips)
+- [The IDE in Browser][ibide]
+- [Ask a Question FAQ][aaq]
+
+[ibide]: https://help.learn.co/about-learn/navigating-learn/ide-in-browser
+[guide]: http://help.learn.co/the-learn-ide/the-basics-of-the-learn-ide/using-the-ide-versus-a-local-environment
+[aaq]: https://help.learn.co/free-online-courses/ask-a-question/where-can-i-ask-a-question-about-a-lesson
+[learn]: https://learn.co
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/the-learn-philosophy' title='The Learn Philosophy'>The Learn Philosophy</a> on Learn.co and start learning to code for free.</p>
-
-[guide]: http://help.learn.co/the-learn-ide/the-basics-of-the-learn-ide/using-the-ide-versus-a-local-environment
