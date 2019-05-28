@@ -79,10 +79,33 @@ later lessons. If "command line" and "editor" are still new concepts to you,
 don't worry, you'll be getting to know them soon enough.
 
 To take a look now at the in-browser IDE, look for the 'Sandbox' button on the
-top right of this lesson on Learn. The Sandbox acts as a scratch pad for
-practicing as you read lessons. The Sandbox will be available on every lesson in
-the first few sections of this course and on any lessons that do not
-specifically require a student to write code.
+top right of this lesson on Learn.
+
+![Sandbox](https://curriculum-content.s3.amazonaws.com/prework/sandbox-learn.png)
+
+The Sandbox acts as a scratch pad for practicing as you read lessons. The
+Sandbox will be available on every lesson in the first few sections of this
+course and on any lessons that do not specifically require a student to write
+code.
+
+Any changes you make in the Sandbox **will be saved from lesson to lesson**,
+including any files and folders you create. Learn automatically saves this
+content on your behalf to a repository in your GitHub account called
+`learn-co-sandbox`. 
+
+**A word of caution!** Please do not touch this repository in GitHub, as it will
+affect your Sandbox experience, and potentially cause your work to be out of
+sync.
+
+In a few lessons, you will be introduced to concepts like navigating a command
+line. Soon after, you'll be working with the Interactive Ruby Shell, otherwise
+known as [IRB][], and read-evaluate-print loops, or [REPLs][]. You can use the
+Sandbox throughout these lessons to follow along. For example, if you open the
+Sandbox now, in the bottom right section (the in-browser IDE's command line
+interface), you can type `whoami` and press `Enter` to see your Learn account
+name:
+
+![Sandbox](https://curriculum-content.s3.amazonaws.com/prework/whoami-sandbox.png)
 
 ## Conclusion
 
@@ -101,5 +124,5 @@ Happy Learning!
 [guide]: http://help.learn.co/the-learn-ide/the-basics-of-the-learn-ide/using-the-ide-versus-a-local-environment
 [aaq]: https://help.learn.co/free-online-courses/ask-a-question/where-can-i-ask-a-question-about-a-lesson
 [learn]: https://learn.co
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/the-learn-philosophy' title='The Learn Philosophy'>The Learn Philosophy</a> on Learn.co and start learning to code for free.</p>
+[IRB]: https://en.wikipedia.org/wiki/Interactive_Ruby_Shell
+[REPLs]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
