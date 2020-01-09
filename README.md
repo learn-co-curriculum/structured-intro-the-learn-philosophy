@@ -101,11 +101,21 @@ In a few lessons, you will be introduced to concepts like navigating a command
 line. Soon after, you'll be working with the Interactive Ruby Shell, otherwise
 known as [IRB][], and read-evaluate-print loops, or [REPLs][]. You can use the
 Sandbox throughout these lessons to follow along. For example, if you open the
-Sandbox now, in the bottom right section (the in-browser IDE's command line
+Sandbox now, in the bottom right section (the in-browser IDE's command-line
 interface), you can type `whoami` and press `Enter` to see your Learn account
 name:
 
 ![Sandbox](https://curriculum-content.s3.amazonaws.com/prework/whoami-sandbox.png)
+
+Later on, you'll encounter lessons that require you to write your own code. In these
+lessons, the **Sandbox** button will change to **Open IDE**:
+
+![Open IDE button](https://curriculum-content.s3.amazonaws.com/onboarding/OpenIDE.png)
+
+In these lessons, instead of a scratch pad, you'll be able to edit and work on lesson 
+specific files.
+
+![IDE](https://downloads.intercomcdn.com/i/o/41909803/629210713d1b1343c88b60d7/learnIde6.gif)
 
 ## Conclusion
 
