@@ -58,7 +58,6 @@ Happy Learning!
 
 ## Resources
 
-- [The IDE in Browser][ibide]
 - [Ask a Question FAQ][aaq]
 
 [ibide]: https://help.learn.co/about-learn/navigating-learn/ide-in-browser
